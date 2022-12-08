@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/MagicAces/url-shortening)
-- Live Site URL: [Cyclic]()
+- Live Site URL: [Cyclic](https://urlshortener.cyclic.app)
 
 ## My process
 
