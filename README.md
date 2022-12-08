@@ -139,7 +139,7 @@ Users should be able to:
 
 ### What I learned
 
-I used Express on node for a bit of backend I also reinforced my Flexbox and Gridbox skills. It was also an opportunity to learn Async and Await, as well as, using the Clipboard API.
+I used Express on Nodejs blended with EJS for a bit of backend. It was also an opportunity to learn Async and Await, as well as, using the Clipboard API.
 
 
 ## Author
