@@ -120,13 +120,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./.png)
+![](./screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/MagicAces/countries-rest-api)
-- Live Site URL: [Firebase](https://countries-rest.web.app/)
+- Solution URL: [Github](https://github.com/MagicAces/url-shortening)
+- Live Site URL: [Cyclic]()
 
 ## My process
 
